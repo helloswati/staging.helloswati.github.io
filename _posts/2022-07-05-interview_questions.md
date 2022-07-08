@@ -2,7 +2,7 @@
 layout: post
 title: Data Science Interview Questions
 date:  2016-01-28 10:18:00
-tags: tutorials cloud predictions 2016 year hellodk
+tags: tutorials
 subclass: 'post tag-tutorials'
 categories: 'swati'
 navigation: True
